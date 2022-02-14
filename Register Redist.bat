@@ -19,4 +19,4 @@ choco install msxml4.sp3 -y
 choco install vlc -y
 choco install eartrumpet -y
 choco install modernflyouts -y
-pause
+exit
