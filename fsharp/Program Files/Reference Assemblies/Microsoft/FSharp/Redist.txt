@@ -1,0 +1,3 @@
+As per the Microsoft Visual F# EULA, the following assembly can be redistributed:
+
+FSharp.Core.dll
