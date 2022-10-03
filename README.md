@@ -4,9 +4,6 @@ Welcome to this page!
   We including components which it start app functionaling and fixes runtimes error!
   Requiments : 1.5GB space for the package and maximum 3GB space for files.
   By default: After installations , it hides "Add or remove Programs" entires and it reboots automaticly after it finish the installation.
- 
-# When i launch the package?
-Mid July.
 
 # What is a runtime?
 
