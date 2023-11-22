@@ -39,5 +39,31 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | Visual Basic/C++ Redist                            | Microsoft               | me      | Fixing runtime errors and Running apps writing C/C++ or Visual Basic.         |
 | .NET Core & Runtime                                                         | Microsoft               | extracted .msi installer                      | Running terminal .NET Apps                                                    |
 | XNA Redist                                                                  | Microsoft               | -                                             | Component for 00s - 10s Games                                                 |
-| Python 3 Integration                                                                  | Python Foundation               | -                                             | Running .py files, and also added to contextual menu "Run as Python Script"                                                 |
+| Python 3 Integration                                                                  | Python Foundation               | -                                             | Running .py files                                                 |
+|Vulkan                                                      | Vulkan               | me                                            | Running Vulkan Games on Windows (optional)                                                       |
+| XML Parser                                                      | Microsoft               | me                                            | Support for Apps and Games such as Age of Empires 3                                                              |
+| OpenSSLAL                                                      | repacked               | repacked                                            | Adds Support for OpenAL and OpenSSL                                                             |
+| Java (included JDK and JRE)                                                      | Oracle               | me                                            | Running .jar files, compile .java files                                                              |
+| Apple Device Runtime                                                   | Apple               | me                                            | Include Apple Application Support, Apple Mobile Device Support and Bonjour in package. Imported from iTunes Installation file. Useful for Apps working with Apple Devices such iPhone, iPad without iTunes / Apple App.                                                            |
+| 16-bit App Support (OTVDVM)                                                   | -               | me                                            | Support for 16-bit apps for Windows 3.1 or newer. Also it includes some runtimes integrated in that package.                                                           |
+
+
+
+
+
+# List of Gaming Runtimes which are included to this Pack
+  Gaming Runitmes are so important to need to run Games which are need some old apis such as Xbox Live Redists. This package it includes offline installations for game stores such Epic Games and EA App.
+| Component Name                                                              | Created by              | Repacked By                                   | Why is needed for?                                                            |
+|-----------------------------------------------------------------------------|-------------------------|-----------------------------------------------|-------------------------------------------------------------------------------|
+| SecDrv DRM                                                    | Macrovison               | me                                            | Support for SecDrv Games such FIFA07                                                             |
+| nGlide                                                    | nGlide               | me                                            | Glide wrapper to OpenGL. useful for running old Games                                                            |
+| Dokan Library and Xbox Live (old) clients                                                    | -               | me                                            | Support for old games and online gaming (?)                                                         |
+| Bluetooth PS3 Support and ViGEm Bus Driver                                                   | -               | -                                       | Support for PSX / Steam /Nintendo Controllers for Windows (needs DS4Windows and more apps to configure that)                                                            |
+| Xbox Live UWP Connection + Xbox Gaming Services UWP                                                    | Microsoft               | me                                            | Support for Microsoft Store Games, needs Windows 10 RS5 or newer and UWP Runtime Installed.                                                            |
+| Steam (stub), EpicGames, Xbox App and EA App                                                    | -               | me                                            | Gaming Stores integrated for offline instalation. These can be removed if the user doesn't want.                                                            |
+
+
+
+
+
 
