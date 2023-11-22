@@ -32,7 +32,6 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | Adobe Flash Player, AIR and Shockware Integration                           | Adobe Systems           | elchupacabra                                  | Running Offline Flash Content (.swf files)                                    |                                                    |
 | Microsoft Silverlight                                                       | Microsoft               | me                                            | Running web content                                                           |
 | NVIDIA PhysX                                                                | NVIDIA                  | elchupacabra                                  | NVIDIA Driver Component                                                       |
-| Unity Web Player                                                            | Unity                   | -                                             | Playing DCR format in player                                                  |
 | .NET Desktop Runtime                                                        | Microsoft               | extracted .msi installer                      | Running Desktop Apps writed in .NET                                  |
 | DirectX 9.0c (win32 and UWP version)                                        | Microsoft               | elchupacabra (win32 version) me (UWP Version) | Runinng apps and games which need DirectX 9.0c Support                        |
 | Visual F# & J# Redist                                                       | Microsoft               | me                                            | .NET Framework complementary components                                       |
@@ -50,6 +49,15 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | Java (included JDK and JRE)                                                      | Oracle               | me                                            | Running .jar files, compile .java files                                                              |
 | Apple Device Runtime                                                   | Apple               | me                                            | Include Apple Application Support, Apple Mobile Device Support and Bonjour in package. Imported from iTunes Installation file. Useful for Apps working with Apple Devices such iPhone, iPad without iTunes / Apple App.                                                            |
 | 16-bit App Support (OTVDVM)                                                   | -               | me                                            | Support for 16-bit apps for Windows 3.1 or newer. Also it includes some runtimes integrated in that package.                                                           |
+
+
+# List of Browser Runtimes which are included in package.
+
+| Component Name                                                              | Created by              |
+|-----------------------------------------------------------------------------|-------------------------|
+| Microsoft Silverlight                                                      | Microsoft               |
+| Unity Web Player                                                  | Unity               |
+| Adobe AIR, Flash Player and Shockware Player                                                 | Adobe               |
 
 
 # List of Runtimes which are include in OTVDM integration aka. 16-bit App Support
