@@ -31,7 +31,6 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | .NET Desktop Runtime                                                        | Microsoft               | extracted .msi installer                      | Running Desktop Apps writed in .NET language                                  |
 | DirectX 9.0c (win32 and UWP version)                                        | Microsoft               | elchupacabra (win32 version) me (UWP Version) | Runinng apps and games which need DirectX 9.0c Support                        |
 | Visual F# & J# Redist                                                       | Microsoft               | me                                            | .NET Framework complementary components                                       |
-| Microsoft JDK   (version 8,11 and lastest)                                                                | Microsoft | -                                       | Running ".jar apps"                                                         |
 | MS XML 4.0 SP3 and 6.0 SP2                                                  | Microsoft               | -                                             | Running old Microsoft Games (Flight Simulator X ,as example)                  |
 | SQL Compact Server                      | Microsoft               | -                                             | Running apps which needed indexing and searching and creating local databases |
 | SQL LocalDB                      | Microsoft               | -                                             | Running apps which needed indexing and searching and creating local databases |
@@ -48,22 +47,9 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | 16-bit App Support (OTVDVM)                                                   | -               | me                                            | Support for 16-bit apps for Windows 3.1 or newer. Also it includes some runtimes integrated in that package.                                                           |
 
 
-
-
-
-# List of Gaming Runtimes which are included to this Pack
-  Gaming Runitmes are so important to need to run Games which are need some old apis such as Xbox Live Redists. This package it includes offline installations for game stores such Epic Games and EA App.
-| Component Name                                                              | Created by              | Repacked By                                   | Why is needed for?                                                            |
-|-----------------------------------------------------------------------------|-------------------------|-----------------------------------------------|-------------------------------------------------------------------------------|
-| SecDrv DRM                                                    | Macrovison               | me                                            | Support for SecDrv Games such FIFA07                                                             |
-| nGlide                                                    | nGlide               | me                                            | Glide wrapper to OpenGL. useful for running old Games                                                            |
-| Dokan Library and Xbox Live (old) clients                                                    | -               | me                                            | Support for old games and online gaming (?)                                                         |
-| Bluetooth PS3 Support and ViGEm Bus Driver                                                   | -               | -                                       | Support for PSX / Steam /Nintendo Controllers for Windows (needs DS4Windows and more apps to configure that)                                                            |
-| Xbox Live UWP Connection + Xbox Gaming Services UWP                                                    | Microsoft               | me                                            | Support for Microsoft Store Games, needs Windows 10 RS5 or newer and UWP Runtime Installed.                                                            |
-| Steam (stub), EpicGames, Xbox App and EA App                                                    | -               | me                                            | Gaming Stores integrated for offline instalation. These can be removed if the user doesn't want.                                                            |
-
-
-
-
-
-
+# List of Runtimes which are include in OTVDM integration aka. 16-bit App Support
+And even **16-bit apps support** had runtimes. Those are integrated into it DOS Setup.
+| Component Name                                                              | Created by              |
+|-----------------------------------------------------------------------------|-------------------------|
+| Microsoft Visual Basic Runtime, version 1.0, 2.0 and 3.0 (16-bit)                                                      | Microsoft               |
+| Microsoft Visual Basic Runtime, version 4.0 (16/32 bit)                                                  | Microsoft               |
