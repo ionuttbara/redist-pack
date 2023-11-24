@@ -50,6 +50,16 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | Apple Device Runtime                                                   | Apple               | me                                            | Include Apple Application Support, Apple Mobile Device Support and Bonjour in package. Imported from iTunes Installation file. Useful for Apps working with Apple Devices such iPhone, iPad without iTunes / Apple App.                                                            |
 | 16-bit App Support (OTVDVM)                                                   | -               | me                                            | Support for 16-bit apps for Windows 3.1 or newer. Also it includes some runtimes integrated in that package.                                                           |
 
+# List of runtimes for old Windows Version, but are working fine to newer version of Windows (such Windows 10 and Windows 11 and even Insider Preview)
+Those can be installed via Microsoft.VisualBasic.exe or Microsoft.VB.exe downloaded from Release Page.
+ | Component Name                                                              | Created by              |
+|-----------------------------------------------------------------------------|-------------------------|
+| Visual Basic Runtime (4,5) imported from DOSSvc                                                      | Microsoft               |
+| Visual Basic Runtime 6                                                | Microsoft               |
+| Microsoft Visual Basic Runtime 7.1 for Apps                                                 | Microsoft               |
+| Microsoft Visual C++ 2002/2003                                               | Microsoft               |
+| Microsoft Jet Engine (1.x -> 3.x)                                                 | Microsoft               |
+| Crystal Report Redist (<4.0)                                                | Microsoft               |
 
 # List of Browser Runtimes which are included in package.
 
