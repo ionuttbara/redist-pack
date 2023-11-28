@@ -49,6 +49,9 @@ I've inserted all NEEDED Components for stable system and getting to run much ap
 | Java (included JDK and JRE)                                                      | Oracle               | me                                            | Running .jar files, compile .java files                                                              |
 | Apple Device Runtime                                                   | Apple               | me                                            | Include Apple Application Support, Apple Mobile Device Support and Bonjour in package. Imported from iTunes Installation file. Useful for Apps working with Apple Devices such iPhone, iPad without iTunes / Apple App.                                                            |
 | 16-bit App Support (OTVDVM)                                                   | -               | me                                            | Support for 16-bit apps for Windows 3.1 or newer. Also it includes some runtimes integrated in that package.                                                           |
+| Microsoft Office Compatibility Pack SP3 with Jan 2019 Security Updates                                                   | -               | me                                            | Support for apps needed Office 2007 file-support compatibility.                                                           |
+| Access Database Engine (2007, 2010 and 2016)                                                  | -               | me                                            | Support for apps needed Access Database Engine such AutoCAD and Corel Draw.                                                           |
+
 
 # List of runtimes for old Windows Version, but are working fine to newer version of Windows (such Windows 10 and Windows 11 and even Insider Preview)
 Those can be installed via Microsoft.VisualBasic.exe or Microsoft.VB.exe downloaded from Release Page.
